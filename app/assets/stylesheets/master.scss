@@ -1,4 +1,4 @@
-@import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower&display=swap');
 
 .clear {
   clear: both;
@@ -42,4 +42,16 @@
 
 header {
   border-top: 9px solid #222222;
+}
+
+hr {
+  clear:both;
+}
+
+h1 {
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  font-family: 'Indie Flower', cursive;
 }
